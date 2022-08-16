@@ -24,3 +24,13 @@ C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\ref\GeekShopping.Web.dll
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.pdb
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.csproj.CopyComplete
