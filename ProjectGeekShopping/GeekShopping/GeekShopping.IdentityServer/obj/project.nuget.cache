@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PycYWBFCI3r5rwdW++7FdMEK1Iy0njTmcdjsei0y+9yIbaUT7f3JnuSxiY44Y3Yr9oBvDOznfYEEj+JDbQQbPw==",
+  "dgSpecHash": "1LB3RQZrjlqzgdVpk9nj7Ouu9GG4FKC2BIQIhtjeHakJroS3u8GkwFtW33YCDA9DK8RodAipYQ/Yk8wl6scNvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bruno\\Documents\\Cursos\\MicroservicosByUdemy\\erudio-microservices-dotnet6\\ProjectGeekShopping\\GeekShopping\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
   "expectedPackageFiles": [

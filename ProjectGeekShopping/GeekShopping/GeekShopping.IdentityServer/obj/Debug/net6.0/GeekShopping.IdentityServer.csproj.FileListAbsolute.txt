@@ -13,7 +13,6 @@ C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.deps.json
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.runtimeconfig.json
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.dll
-C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.dll
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
@@ -52,3 +51,5 @@ C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-AF36133F98D05A2636E4694B76B461CA.json
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\refint\GeekShopping.IdentityServer.dll
