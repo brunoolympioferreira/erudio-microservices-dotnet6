@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IY7U5xHVPAigaomjMReUmRqHXvHK2iGMXye6FG3MK+8=",
+  "Hash": "oFytt29Lf44t92v/tXRZz0er+TeeNY1R8laPy+Y/FhU=",
   "Source": "GeekShopping.Web",
   "BasePath": "_content/GeekShopping.Web",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Documents\\Cursos\\MicroservicosByUdemy\\erudio-microservices-dotnet6\\ProjectGeekShopping\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\order.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Documents\\Cursos\\MicroservicosByUdemy\\erudio-microservices-dotnet6\\ProjectGeekShopping\\GeekShopping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/order.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\order.png"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Documents\\Cursos\\MicroservicosByUdemy\\erudio-microservices-dotnet6\\ProjectGeekShopping\\GeekShopping\\GeekShopping.Web\\wwwroot\\js\\site.js",
