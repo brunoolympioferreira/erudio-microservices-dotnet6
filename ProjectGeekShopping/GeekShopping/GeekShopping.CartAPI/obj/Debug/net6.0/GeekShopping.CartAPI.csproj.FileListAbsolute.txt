@@ -43,3 +43,6 @@ C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
 C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Users\Bruno\Documents\Cursos\MicroservicosByUdemy\erudio-microservices-dotnet6\ProjectGeekShopping\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
