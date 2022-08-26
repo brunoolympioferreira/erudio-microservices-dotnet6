@@ -1,15 +1,11 @@
-﻿
-
-using GeekShopping.CartAPI.Data.ValueObjects;
-using GeekShopping.MessageBus;
-
-namespace GeekShopping.CartAPI.Messages
+﻿namespace GeekShopping.OrderAPI.Messages
 {
-    public class CheckoutHeaderVO : BaseMessage
+    public class CheckoutHeaderVO
     {
         public string UserId { get; set; }
         public string CouponCode { get; set; }
         public decimal PurchaseAmount { get; set; }
+
         public decimal DiscountAmount { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -19,6 +15,7 @@ namespace GeekShopping.CartAPI.Messages
         public string CardNumber { get; set; }
         public string CVV { get; set; }
         public string ExpiryMothYear { get; set; }
+
         public int CartTotalItens { get; set; }
         public IEnumerable<CartDetailVO> CartDetails { get; set; }
     }
